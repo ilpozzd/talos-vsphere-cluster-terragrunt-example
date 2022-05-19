@@ -1,4 +1,4 @@
-# vSphere Talos Cluster Terragrunt Example
+# Talos vSphere Cluster Terragrunt Example
 
 ![Diagram](diagram.png)
 
